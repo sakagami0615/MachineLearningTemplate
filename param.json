@@ -1,0 +1,14 @@
+{
+	"train":{
+		"parent_path": "/dataset",
+		"dataset_name": "dogs-vs-cats_Repair"
+	},
+	"test": {
+		"parent_path": "/dataset",
+		"dataset_name": "dogs-vs-cats_Repair"
+	},
+	"metrics": {
+		"parent_path": "/dataset",
+		"dataset_name": "dogs-vs-cats_Repair"
+	}
+}
